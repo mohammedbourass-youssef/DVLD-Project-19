@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\DVLD Project-19\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DVLD Project-19\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DVLD Project-19\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\USER\source\repos\DVLD Project-19\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\USER\source\repos\DVLD Project-19\BusinessLogicLayer\bin\Debug\DataAccessLAyer.dll
+C:\Users\USER\source\repos\DVLD Project-19\BusinessLogicLayer\bin\Debug\DataAccessLAyer.pdb
+C:\Users\USER\source\repos\DVLD Project-19\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+C:\Users\USER\source\repos\DVLD Project-19\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\USER\source\repos\DVLD Project-19\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
